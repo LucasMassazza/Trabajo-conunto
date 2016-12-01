@@ -1,0 +1,25 @@
+html {
+
+}
+
+#left {
+	width: 25%;
+	height: 100%;
+	background-color: red;
+}
+
+#right {
+	width: 75%;
+	height: 100%;
+	background-color: blue;
+}
+
+#foto{
+	margin: 0px 10px;
+    height: 200px;
+	background: url(../imagenes/yo.jpg) center no-repeat;
+    background-size: contain;
+}
+.icon {
+	
+}

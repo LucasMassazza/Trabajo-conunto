@@ -1,0 +1,31 @@
+body{
+	background-color: rgba(0,0,0,0.50);
+}
+
+html {
+	background-image:url('../imagenes/imagenentera.jpg'); 
+}
+
+#juego {
+	width: 900px;
+	height: 600px;
+	position: absolute;
+	margin: 10% 25%;
+}
+
+.pieza {
+	width: 300px;
+	height: 200px;
+	background-position: center;
+	position: absolute;
+	border-radius: 15px;
+	background-color:blue;
+	background-size:100% 100%;
+	box-shadow: 2px 2px 19px 9px rgba(0,0,0,0.75);
+	border:1.5px solid rgba(0,0,0,0.75);
+	margin: auto;
+	transition: all 0.5s;
+}
+
+
+ 
